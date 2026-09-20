@@ -1,7 +1,7 @@
 ## Hey guys Ankit here
 Firmware Engineer by profession.
 
-Passionate about embedded systems and low level stuff. Currently self-learning Embedded Linux.
+Passionate about embedded systems and low level stuff.
 
 ## Skills
 - C 
